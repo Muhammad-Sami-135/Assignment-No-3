@@ -4,7 +4,7 @@
 
 var city = "Karachi";
 if(city === "Karachi"){
-    console.log(city+"is the city of Light");
+    console.log(city + "is the city of Light");
 }
 
 //q2.
@@ -140,7 +140,7 @@ if (a === 10) {
     alert("a is 10"); 
 }
 else{
-    alert(The correct value of a is ${a});
+    alert(`The correct value of a is ${a}`);
 }
 
 //q4.
@@ -169,7 +169,7 @@ if(city==="Karachi"){
   alert("Welcome to city of lights");
 }
 else{
-  alert(Wellcome to ${city});
+  alert(`Wellcome to ${city}`);
 }
 
 
